@@ -1,0 +1,21 @@
+book_filename: "charttypes"
+rmd_files: ["index.Rmd", "charttype_column.Rmd", "charttype_bar.Rmd", "charttype_stacked.Rmd", "charttype_pie.Rmd", "charttype_line.Rmd", "charttype_scatter.Rmd", "charttype_area.Rmd", "charttype_doughnut.Rmd", "charttype_radar.Rmd", "charttype_bubble.Rmd", "charttype_control.Rmd", "charttype_control.Rmd", "charttype_pareto.Rmd", "charttype_waterfall.Rmd", "charttype_boxwhisker.Rmd", "charttype_colofon.Rmd"]
+language:
+  label:
+    fig: 'Figuur '
+    tab: 'Tabel '
+    eq: 'Vergelijking '
+    thm: 'Theorema '
+    lem: 'Lemma '
+    cor: 'Conclusie '
+    prp: 'Voorstel '
+    cnj: 'Vermoeden '
+    def: 'Definitie '
+    exm: 'Voorbeeld '
+    exr: 'Opgave '
+    proof: 'Bewijs. '
+    remark: 'Opmerking. '
+    solution: 'Oplossing. '
+  ui:
+    edit: Bewerken
+    chapter_name: 'Hoofdstuk'

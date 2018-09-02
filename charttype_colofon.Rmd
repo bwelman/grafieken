@@ -1,0 +1,14 @@
+# Colofon {-}
+
+door Ben Welman
+
+Softwijs Neede
+
+Website: [http://www.softwijs.nl](http://www.softwijs.nl)
+
+Tweede editie, augustus 2018
+
+ ![](images/creativecommons.png) 
+
+Deze gids van [Softwijs Neede](http://www.softwijs.nl) is in licentie gegeven volgens een [Creative Commons Naamsvermelding-Niet Commercieel-GelijkDelen 3.0 Nederland licentie](http://creativecommons.org/licenses/by-nc-sa/3.0/nl/).
+

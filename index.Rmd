@@ -1,0 +1,26 @@
+--- 
+title: "Grafieken"
+author: "Ben Welman"
+date: "2 september 2018"
+documentclass: book
+output:
+  bookdown::pdf_book: default
+  bookdown::epub_book: default
+  bookdown::gitbook: default
+download:
+- pdf
+- epub
+fontsize: 11pt
+mainfont: Palatino
+description: textbook
+site: bookdown::bookdown_site
+cover-image: images/cover.png
+---
+
+# Voorwoord {-}
+
+Grafieken zijn een belangrijk hulpmiddel bij het analyseren van cijfers. Grafieken kunnen informatie helder en duidelijk weergeven en de kracht ervan moet niet onderschat worden. Trends en overzichten kunnen in grafieken weergegeven worden en afwijkende waarden vallen er snel in op.
+
+Het juiste type grafiek kiezen is erg belangrijk. In deze gids worden een aantal grafieksoorten voorgesteld en uitgelegd. Veel mensen hebben moeite met het kiezen van een goede grafieksoort, deze gids helpt je daarbij. Je leert in deze gids niet hoe je een grafiek moet maken. Alle getoonde voorbeelden zijn met Microsoft Excel 2016 gemaakt.
+
+Softwijs brengt een studieboek voor Excel uit waarin uitgelegd wordt hoe deze grafieksoorten in Excel gemaakt kunnen worden. De gratis online versie van dit studieboek is te zien op [Leer Excel](http://leerexcel.softwijs.nl/).
