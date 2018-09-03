@@ -6,7 +6,7 @@ In een regeldiagram wordt het verloop in de tijd van een meetwaarde geregistreer
 
 In de volgende afbeelding zijn de temperatuurmetingen van 25 monsters te zien. De twee horizontale lijnen geven de bovengrens en de ondergrens aan. Duidelijk is te zien dat twee keer de temperatuur buiten het toegestane gebied is gekomen.
 
- ![](images/control_result.png "Temperatuurmonsters reactor") 
+![Regeldiagram: Temperatuurmetingen met onder- en bovengrenzen (rode lijnen)](images/control_result.png) 
 
 Een regeldiagram is in feite een lijndiagram met twee extra horizontale lijnen.
 

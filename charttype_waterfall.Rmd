@@ -6,5 +6,5 @@ In een watervaldiagram worden de begin- en eindwaarden weergegeven als kolommen.
 
 In de volgende afbeelding is de wijziging in het aantal klanten bij een telecombedrijf te zien, alsmede de invloed hierop van een aantal gebeurtenissen. De grijs gekleurde kolommen geven de begin- en eindsituatie aan, de blauw gekleurde kolommen staan voor een toename en de oranje gekleurde kolommen voor een afname van het aantal klanten.
 
- ![](images/waterfall_result.png "Klantenverloop 2009") 
+![Watervaldiagram: Klantenverloop in 2009](images/waterfall_result.png) 
 

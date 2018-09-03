@@ -8,5 +8,5 @@ Vlakdiagrammen zijn gebaseerd op lijndiagrammen. Het vlak tussen de as en de lij
 
 In de volgende afbeelding zie je de verkochte aantallen van drie produkten van een bedrijf gedurende het eerste halfjaar. De totalen per maand zijn ook goed af te lezen.
 
- ![Gestapeld vlakdiagram voor aantal verkochte artikelen](images/area_result.png "Gestapeld vlakdiagram voor aantal verkochte artikelen") 
+![Gestapeld vlakdiagram: Aantal verkochte artikelen per produkt per maand](images/area_result.png) 
 

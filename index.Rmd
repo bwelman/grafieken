@@ -3,16 +3,10 @@ title: "Grafieken"
 author: "Ben Welman"
 date: "2 september 2018"
 documentclass: book
-output:
-  bookdown::pdf_book: default
-  bookdown::epub_book: default
-  bookdown::gitbook: default
-download:
-- pdf
-- epub
+description: "Een beschrijving van een aantal grafieksoorten en hun toepassingen"
 fontsize: 11pt
 mainfont: Palatino
-description: textbook
+github-repo: "bwelman/grafieken"
 site: bookdown::bookdown_site
 cover-image: images/cover.png
 ---

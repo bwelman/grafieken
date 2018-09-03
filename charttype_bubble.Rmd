@@ -6,5 +6,5 @@ Een bellendiagram is een uitbreiding op een spreidingsdiagram. Bij de laatste wo
 
 In de volgende afbeelding is voor een zevental Europese landen voor het jaar 2015 de levensverwachting van een pasgeborene tegen het het aantal geboren kinderen per vrouw \(vruchtbaarheidscijfer\). Voor de grootte van de bel is de bevolkingsomvang voor dat land in 2015 genomen.
 
- ![Bellendiagram](images/bubble_result.png "Bellendiagram") 
+![Bellendiagram: Levensverwachting vs Vruchtbaarheidscijfer](images/bubble_result.png) 
 

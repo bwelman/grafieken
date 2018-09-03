@@ -14,5 +14,5 @@ Let er op dat bij een lijndiagram de horizontale as nooit metrisch is. Dat is ge
 
 De volgende afbeelding toont de jaarlijkse temperaturen \(gemiddelde, maximum en minimum\) voor de luchthaven Schiphol.
 
- ![Lijndiagram met jaarlijkse temperaturen voor Schiphol](images/line_result.png "Lijndiagram met jaarlijkse temperaturen voor Schiphol") 
+![Lijndiagram: Gemiddelde, maximum en minimum temperaturen op Schiplhol voor de jaren 2006-2016](images/line_result.png) 
 

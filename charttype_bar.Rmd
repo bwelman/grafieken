@@ -8,5 +8,5 @@ Staafdiagrammen worden veel gebruikt om verschillen in rangorde duidelijk te mak
 
 De volgende afbeelding toont het percentage rokers per leeftijdscategorie in 2009.
 
- ![Staafdiagram percentage rokers in 2009](images/bar_result.png "Staafdiagram percentage rokers in 2009") 
+![Staafdiagram: Percentage rokers in 2009 per leeftijdscategorie](images/bar_result.png) 
 

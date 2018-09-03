@@ -8,5 +8,5 @@ Kolomdiagrammen worden vooral gebruikt wanneer tijdseenheden als jaren, kwartale
 
 De volgende afbeelding toont de marktaandelen van een aantal supermarktketens voor de jaren 2012-2016 in Nederland .
 
- ![Kolomdiagram marktaandelen supermarktketens](images/column_result.png "Kolomdiagram marktaandelen supermarktketens") 
+![Kolomdiagram: Marktaandelen supermarktketens voor de jaren 2012-2016](images/column_result.png) 
 

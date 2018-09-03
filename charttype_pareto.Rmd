@@ -8,5 +8,5 @@ Een Paretodiagram is een veel gebruikt hulpmiddel bij een Pareto analyse. Hierbi
 
 In de volgende afbeelding zijn de doodsoorzaken in Nederland in het jaar 2009 te zien. De kolomdiagram geeft aan dat 42396 keer tumoren de oorzaak waren. En de oranje Paretolijn laat zien dat dit ongeveer 30% van het totaal is. En dat tumoren en hart- en vaatziekten samen 60% van het totaal aantal doodsoorzaken vormt.
 
- ![](images/pareto_result.png "Doodsoorzaken 2009") 
+![Paretodiagram: Doodsoorzaken in Nederland in het jaar 2009](images/pareto_result.png) 
 

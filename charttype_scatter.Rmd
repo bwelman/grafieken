@@ -6,5 +6,5 @@ Bij een spreidingsdiagram, ook wel XY diagram of scatterdiagram genoemd, worden 
 
 In de volgende afbeelding zijn de lichaamslengte en het gewicht van 10 studenten tegen elkaar uitgezet. Tevens is een lineaire trendlijn getekend.
 
- ![Spreidingsdiagram met lineaire trendlijn](images/scatter_trend_result.png "Spreidingsdiagram met lineaire trendlijn") 
+![Spreidingsdiagram: Relatie lichaamslengte en gewicht, met lineaire trendlijn](images/scatter_trend_result.png) 
 

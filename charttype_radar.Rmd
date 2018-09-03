@@ -8,5 +8,5 @@ Een radardiagram kan gebruikt worden om vragen te beantwoorden als: Welke catego
 
 In de volgende afbeelding worden de beoordelingen op een 5-punts Likert schaal van een vaardigheidsanalyse van Roger en Mary met elkaar vergeleken.
 
- ![Radardiagram vaardigheidsanalyse](images/radar_result.png "Radardiagram vaardigheidsanalyse") 
+![Radardiagram: Vaardigheidsanalyse](images/radar_result.png) 
 

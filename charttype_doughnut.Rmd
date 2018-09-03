@@ -8,5 +8,5 @@ Ringdiagrammen zijn niet altijd gemakkelijk te lezen, een gestapeld kolom- of st
 
 In de volgende afbeelding zijn de verkopen per kwartaal van een bedrijf in de jaren 2008 en 2009 te zien.
 
- ![Ringdiagram omzet per kwartaal](images/doughnut_result.png "Ringdiagram omzet per kwartaal") 
+![Ringdiagram: Omzet per kwartaal voor de jaren 2008-2009](images/doughnut_result.png) 
 

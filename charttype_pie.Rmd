@@ -8,9 +8,9 @@ Bij een cirkeldiagram is de cirkel opgedeeld in een aantal sectoren \(taartpunte
 
 In de volgende afbeelding is de uitslag van de 2e Kamerverkiezing 2010 met een cirkeldiagram weergegeven. Hieraan hebben 19 partijen deelgenomen. In het diagram zijn alleen die partijen weergegeven die meer dan 5% hebben behaald, dat zijn er zeven. Alle overige partijen zijn samengevat onder de naam Overig.
 
- ![Cirkeldiagram](images/pie_result.png "Verkiezingsuitslag 2e Kamer 2010 (grote partijen)") 
+![Cirkeldiagram: Uitslag 2e kamerverkiezing 2010](images/pie_result.png) 
 
 Om ook de onderverdeling in de categorie Overig zichtbaar te maken kan deze bijvoorbeeld uitgesplitst worden in een staafdiagram. In de volgende afbeelding zijn de resultaten voor de partijen uit de categorie Overig die 1% of meer behaald hebben weergegeven in een staafdiagram. De partijen die minder dan 1% behaald hebben zijn weer samengevat in de categorie Rest.
 
- ![Combinatie van een crirkeldiagram met een staafdiagram](images/pie_bar_result.png "Verkiezingsuitslag 2e Kamer 2010 (uitgebreid)") 
+![Combinatie: Cirkeldiagram met staafdiagram 2e Kamerverziezing 2010](images/pie_bar_result.png) 
 

@@ -6,7 +6,7 @@ Bij meerdere gegevensreeksen kun je de kolommen en staven naast elkaar zetten, m
 
 Marktaandelen van een aantal supermarktketens voor de jaren 2012-2016 in Nederland. Zowel de onderlinge verdeling als de wijziging in de jaren is te zien. Daarnaast is ook het verloop van het van de marktaandelen van deze 5 ketens samen zichtbaar, dit is immers de totale hoogte van de kolom.
 
- ![](images/column_stacked_result.png "Gestapeld kolomdiagram") 
+![Gestapeld kolomdiagram: marktaandelen supermarktketens voor de jaren 2012-2016](images/column_stacked_result.png) 
 
 Een variant hierop is wanneer de totale lengte van de staaf steeds 100% is en dus steeds even lang is. In dit soort diagrammen worden de onderlinge verhoudingen nog beter zichtbaar.
 
